@@ -110,7 +110,7 @@ A file-based C project for managing employee records, payroll, and attendance vi
 ## Connect With Me
 
 <p align="center">
-  <a href="https://bd.linkedin.com/in/shams-kbry">
+  <a href="https://bd.linkedin.com/in/shams-kbr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ShamsKabir">
